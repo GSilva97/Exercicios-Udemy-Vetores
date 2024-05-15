@@ -9,7 +9,7 @@ public class Zero11 {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
-        System.out.print("Quantas pessoa seram digiadas? ");
+        System.out.print("Quantas pessoa seram digitadas? ");
         int q = sc.nextInt();
         int cP = 1;
         int m = 0;
